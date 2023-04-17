@@ -1,4 +1,6 @@
 # ProveTriangleKillsSquare
-hi vyas
+hi
+
 i have proved triangle kills square
-ms vangor crying rn
+
+will prob private this repo soon
